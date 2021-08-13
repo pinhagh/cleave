@@ -9,9 +9,13 @@ feel free to paste anything
 CREDITS:
 
 pinha: creating the cheat
+
 pika: tester
+
 "River Hyperbola" (osiris neps owner): helping me with debugging
+
 supremacy: base
+
 unpure: resolver, hooks.cpp crash fix
 
 NOTE: compile in Release x86
