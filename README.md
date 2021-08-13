@@ -1,5 +1,5 @@
 # cleave
-cleave for 2k18 csgo hvh
+cleave for 2k18 csgo hvh, formerly known as applecheat
 
 decided to release this since its sitting on my pc doing nothing. development lasted for about a month and then i lost motivation to continue playing legacy hvh
 
