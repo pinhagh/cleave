@@ -1,11 +1,26 @@
-# supremacy
-Supremacy Counter-Strike: Global Offensive cheat, by https://interwebz.cc/. Good for learning, everything is commented. Open Source.
+# cleave
+cleave for 2k18 csgo hvh
 
-Since the source has been going around awhile, and people thinking they're cool because they have this source I decieded to release it.
-It's 90% a skeet paste, and the source should be good for people to learn from.
+decided to release this since its sitting on my pc doing nothing. development lasted for about a month and then i lost motivation to continue playing legacy hvh
 
-Another thing is, people were literally trying to sell this source, and sell cheats based from this. If you do that, you're basically scamming people, don't do that, thanks.
+feel free to paste anything
 
-NOTE: Compile in Release x86 -- some morons need this information.
+--------------------
 
-The cheat was mainly composed of getting skeet users to dump the cheat modules, and then reversing the cheat(skeet), and implementing their functions into Supremacy. The menu was designed to make esoterik mad, and ultimately ending up cracking the cheat due to lack of modern security.
+CREDITS:
+
+pinha: creating the cheat
+Pika: testing
+River Hyperbola (osiris neps owner): helping me with debugging
+supremacy: base
+unpure: resolver, hooks.cpp crash fix
+
+--------------------
+
+NOTE: compile in Release x86
+
+NOTE 2: although the cheat is playable and performs really well, it is not finished, i had a lot more stuff in mind to add and improve in the cheat so dont expect it to be perfect. dm me on discord for support (green apple#9094)
+
+--------------------
+
+![Screenshot 2021-08-13 212635](https://user-images.githubusercontent.com/88907266/129416739-0a8ab04d-6837-45f6-af8c-6f07dc4fd9fc.png)
