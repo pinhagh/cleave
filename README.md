@@ -6,6 +6,7 @@ decided to release this since its sitting on my pc doing nothing. development la
 
 feel free to paste anything
 
+--------------------
 
 CREDITS:
 
@@ -19,6 +20,7 @@ supremacy: base
 
 unpure: resolver, hooks.cpp crash fix
 
+--------------------
 
 NOTE: compile in Release x86
 
